@@ -11,6 +11,6 @@ When the stack reaches capacity, it executes `DoubleCapacity()` to manage memory
 
 ## How to Run
 NOTE: .NET SDK is required to build this project
-Clone repo:
+- Clone repo:
    ```bash
    git clone [https://github.com/yourusername/PortfolioTextEditor.git](https://github.com/yourusername/PortfolioTextEditor.git)
