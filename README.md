@@ -7,7 +7,7 @@ A terminal-based text editor built to demonstrate my understanding of Stacks in 
 - **Undo/Redo:** Uses push and pop stack methods to track and navigate history.
 
 ## Data Structure Logic
-When the stack reaches capacity, it executes `DoubleCapacity()` to manage memory allocation.
+When the stack reaches capacity, it executes `DoubleCapacity()` to double the size of the stack.
 
 ## How to Run
 NOTE: .NET SDK is required to build this project
